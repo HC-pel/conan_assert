@@ -1,0 +1,5 @@
+[requires]
+req/1.0@test/test
+[build_requires]
+build_req/1.0@test/test
+
